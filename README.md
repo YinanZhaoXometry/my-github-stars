@@ -1,4 +1,4 @@
-# my_catalog_of_stars
+# My catalog of stars
 为了方便后续阅览和查找，对star项目分类管理
 
 ## 安全相关
