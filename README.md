@@ -20,3 +20,6 @@
 
 ## TypeScript
 - [TypeScript Deep Dive](https://github.com/basarat/typescript-book/)，免费的TypeScript开源书。
+
+## 小工具
+- [npm-stat](https://github.com/pvorb/npm-stat.com#npm-stat)，分析npm包日、月、年均下载量的小工具，也可通过[网站](https://npm-stat.com/)访问。
