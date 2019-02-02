@@ -12,3 +12,8 @@
  
 ## KOA
 - [koa-demos](https://github.com/ruanyf/koa-demos)：[@阮一峰](https://github.com/ruanyf)写的几个基础的koa demo，不用都做完，做上几个能加深对于KOA对理解，高手总是善于用简单的方法传播知识，可以结合这篇文章使用[Koa 框架教程](http://www.ruanyifeng.com/blog/2017/08/koa.html)。
+
+
+## 函数式编程
+- [Ramda](https://github.com/ramda/ramda)，一个JS的工具函数库。
+- [mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide)，很不错的介绍函数式编程的书，必须mark，在GitHub按名字可搜索到中文翻译版。
