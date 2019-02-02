@@ -17,3 +17,6 @@
 ## 函数式编程
 - [Ramda](https://github.com/ramda/ramda)，一个JS的工具函数库。
 - [mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide)，很不错的介绍函数式编程的书，必须mark，在GitHub按名字可搜索到中文翻译版。
+
+## TypeScript
+- [TypeScript Deep Dive](https://github.com/basarat/typescript-book/)，免费的TypeScript开源书。
