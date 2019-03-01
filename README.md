@@ -1,5 +1,5 @@
-# My catalog of stars
-为了方便后续阅览和查找，对star项目分类管理
+# My star quick sort
+本项目用于整理我在GitHub上star项目的清单，以方便查阅和分享
 
 ## 安全相关
 
