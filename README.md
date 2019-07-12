@@ -1,4 +1,4 @@
-# My star quick sort
+# My Github Star Catalog
 本项目用于整理我在GitHub上star项目的清单，以方便查阅和分享
 
 ## 安全相关
