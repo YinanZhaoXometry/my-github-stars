@@ -23,3 +23,8 @@
 
 ## 小工具
 - [npm-stat](https://github.com/pvorb/npm-stat.com#npm-stat)，分析npm包日、月、年均下载量的小工具，也可通过[网站](https://npm-stat.com/)访问。
+
+## 书籍
+- [《定投改变命运》](https://github.com/xiaolai/regular-investing-in-box)。
+- [《自学是门手艺》](https://github.com/selfteaching/the-craft-of-selfteaching)。
+
