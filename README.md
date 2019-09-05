@@ -1,6 +1,12 @@
 # My GitHub Star Catalog
 本项目用于整理我在GitHub上star项目的清单，以方便查阅和分享
 
+### 小程序开发
+
+- [vant-weapp](https://github.com/youzan/vant-weapp)：有赞开源的轻量、可靠的微信小程序 UI 组件库。
+- [wxParse](https://github.com/icindy/wxParse)：微信小程序富文本解析自定义组件，支持HTML及markdown解析。
+
+
 ### 面试相关
 
 - [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)：每天搞定一道前端大厂面试题。
