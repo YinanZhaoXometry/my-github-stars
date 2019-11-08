@@ -42,3 +42,5 @@
 ### 个人网站
 - [Topaz](https://github.com/Naresh1318/Topaz), A configurable, easy to maintain personal website。
 
+### 书单
+- [bevacqua/reads](https://github.com/bevacqua/reads)，Nicolás Bevacqua的个人书单，包含web开发、艺术、编程思想、编程语言等
