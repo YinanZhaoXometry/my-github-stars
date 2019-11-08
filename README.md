@@ -44,3 +44,4 @@
 
 ### 书单
 - [bevacqua/reads](https://github.com/bevacqua/reads)，Nicolás Bevacqua的个人书单，包含web开发、艺术、编程思想、编程语言等
+- [Frontend Knowledge Structure](https://github.com/JacksonTian/fks)，朴灵推荐的书单和前端技术栈
