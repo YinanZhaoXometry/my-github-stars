@@ -11,6 +11,8 @@
 
 - [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)：每天搞定一道前端大厂面试题。
 - [CS-Notes](https://github.com/CyC2018/CS-Notes)：技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计。
+- [如何通过饿了么 Node.js 面试](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)：ElemeFE开源的如何通过饿了么 Node.js 面试。
+
 
 ### 安全相关
 
