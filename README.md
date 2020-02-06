@@ -3,8 +3,16 @@
 
 ## 开发
 
-### CSS
+### Flutter
+- [HistoryOfEverything](https://github.com/2d-inc/HistoryOfEverything)，Flutter 开发的项目，动画很炫
+- [developer_quest](https://github.com/2d-inc/developer_quest)，Flutter 开发的游戏
+- [Flare](https://github.com/2d-inc/Flare-Flutter)，Flutter 动画制作工具
+
+
+### 动画
 - [animate.css](https://github.com/daneden/animate.css)：CSS动画库。
+- [anime.js](https://github.com/juliangarnier/anime#------animejs)：JS动画库。
+- [greensock](https://github.com/greensock/GSAP)：greensock JS动画库。
 
 
 ### Vue
@@ -34,10 +42,6 @@
 ### 个人网站
 - [Topaz](https://github.com/Naresh1318/Topaz), A configurable, easy to maintain personal website。
 
-
-### Flutter
-- [HistoryOfEverything](https://github.com/2d-inc/HistoryOfEverything)，Flutter 开发的项目，动画很炫
-- [developer_quest](https://github.com/2d-inc/developer_quest)，Flutter 开发的游戏
 
 ## 工具
 
